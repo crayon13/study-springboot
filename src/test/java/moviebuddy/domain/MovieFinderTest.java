@@ -21,4 +21,5 @@ public class MovieFinderTest {
 			throw new RuntimeException(String.format("actual(%d) is different from the expected(%d)", actual, expected));			
 		}
 	}
+
 }
